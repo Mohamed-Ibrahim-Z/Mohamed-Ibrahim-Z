@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
-<h3 align="center">A passionate Flutter Developer</h3>
+<h3 align="center">A passionate Backend Developer</h3>
 
-- 🌱 I’m currently learning **Backend using C#**
+- 🌱 I’m currently learning **Backend using ASP.NET**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Backend Projects**
 
 - 📫 How to reach me **Mohamed.Ibrahim.2023.1@gmail.com**
 
