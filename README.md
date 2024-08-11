@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Ibrahim</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🌱 I’m currently learning **Backend using ASP.NET**
+- 🌱 I’m currently learning **Backend using Spring Boot**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
